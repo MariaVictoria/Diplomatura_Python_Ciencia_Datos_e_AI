@@ -1,0 +1,1 @@
+El dataset de Properati es re pesado y a git no le gusta. Dejo por acá enlace a Drive: [https://drive.google.com/file/d/17JPwlfvDJYMeTG05CANmcj_XIseYJvg-/view?usp=sharing](https://drive.google.com/file/d/17JPwlfvDJYMeTG05CANmcj_XIseYJvg-/view?usp=sharing)
